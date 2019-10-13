@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-float Nilai(float benar, float
-total)
+float Nilai(float benar, float total)
 {
 float Sementara;
 Sementara=(100*benar/total);
